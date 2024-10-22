@@ -24,7 +24,7 @@ class Order(View):
             'appetizers': appetizers,
             'entres': entres,
             'desserts': desserts,
-            'drinks': drinks
+            'drinks': drinks,
         }
         
         #Render the template
